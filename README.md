@@ -78,7 +78,12 @@
 ## The Graph
 ![The Graph Logo](<logo>)
 
-### Bounty 1: Best New Subgraph(s)
+### Bounty 1: Best New Subgraph
 [Details](<link_to_the_graph_bounty1_details>)  
 **Theme:** Open-Ended (choose amongst hackathon themes)  
 **Objective:** Build and deploy a custom subgraph that indexes data from a smart contract to query blockchain data for your dapp.
+
+### Bounty 2: Best Use of Existing Subgraph
+[Details](<link_to_the_graph_bounty1_details>)  
+**Theme:** Open-Ended (choose amongst hackathon themes)  
+**Objective:** Query a new or existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
