@@ -81,7 +81,7 @@
 **Objective:** Develop a protocol or framework facilitating either decentralized AI model training across NEAR's network OR on-chain model inference while maintaining privacy.
 
 ## Aptos
-![Aptos Logo](<logos/aptos_logo.svg>)
+![Aptos Logo](<logos/aptos_logo.png>)
 
 ### Bounty 1: Best Project Built on Aptos
 [Details](<link_to_aptos_bounty1_details>)  
