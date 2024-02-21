@@ -22,4 +22,4 @@ Ideally, the project should be feasible with a clear path to completion and scal
 
 The projects potential for future development, investment, and impact on the blockchain ecosystem can be a significant aspect of its success.
 
-Formal judging criteria and more recources can be found [here]()!
+Formal judging criteria and more resources can be found [here]()!
