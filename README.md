@@ -31,24 +31,6 @@
 **Theme:** Open-Ended (choose amongst hackathon themes)  
 **Objective:** Build something awesome using Chainlink! Anything that came from the Chainlink Documentation counts - using Price Feeds, Data Streams, PoR, VRF or Automation
 
-## NEAR Protocol
-![NEAR Protocol Logo](<logo>)
-
-### Bounty 1: Cross-Chain Convergence and Interoperability
-[Details](<link_to_near_bounty1_details>)  
-**Theme:** Infrastructure  
-**Objective:** Design a proof-of-concept demonstrating the core mechanisms for initiating a stablecoin swap (e.g., USDC) between the NEAR and Ethereum blockchains.
-
-### Bounty 2: Account Aggregation for Enhanced User Experience
-[Details](<link_to_near_bounty2_details>)  
-**Theme:** Open-Ended (choose amongst hackathon themes)  
-**Objective:** Leverage NEAR's flexible account structures to design and prototype a compelling application that streamlines the user experience through account aggregation.
-
-### Bounty 3: Decentralized AI on NEAR
-[Details](<link_to_near_bounty3_details>)  
-**Theme:** AI / ML  
-**Objective:** Develop a protocol or framework facilitating either decentralized AI model training across NEAR's network OR on-chain model inference while maintaining privacy.
-
 ## Range
 ![Range Logo](<logo>)
 
@@ -67,14 +49,6 @@
 **Theme:** DeFi  
 **Objective:** Participants are tasked to come up with innovative strategies on top of existing NFT marketplaces—focusing on liquidity vaults for ERC404s.
 
-## Aptos
-![Aptos Logo](<logo>)
-
-### Bounty 1: Best Project Built on Aptos
-[Details](<link_to_aptos_bounty1_details>)  
-**Theme:** Open-Ended (choose amongst hackathon themes)  
-**Objective:** Participants are tasked with developing projects on the Aptos network. We are open to see great ideas in DeFi, Gaming, Social, Infrastructure/tooling, and more.
-
 ## The Graph
 ![The Graph Logo](<logo>)
 
@@ -87,3 +61,29 @@
 [Details](<link_to_the_graph_bounty1_details>)  
 **Theme:** Open-Ended (choose amongst hackathon themes)  
 **Objective:** Query a new or existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
+
+## NEAR Protocol
+![NEAR Protocol Logo](<logo>)
+
+### Bounty 1: Cross-Chain Convergence and Interoperability
+[Details](<link_to_near_bounty1_details>)  
+**Theme:** Infrastructure  
+**Objective:** Design a proof-of-concept demonstrating the core mechanisms for initiating a stablecoin swap (e.g., USDC) between the NEAR and Ethereum blockchains.
+
+### Bounty 2: Account Aggregation for Enhanced User Experience
+[Details](<link_to_near_bounty2_details>)  
+**Theme:** Open-Ended (choose amongst hackathon themes)  
+**Objective:** Leverage NEAR's flexible account structures to design and prototype a compelling application that streamlines the user experience through account aggregation.
+
+### Bounty 3: Decentralized AI on NEAR
+[Details](<link_to_near_bounty3_details>)  
+**Theme:** AI / ML  
+**Objective:** Develop a protocol or framework facilitating either decentralized AI model training across NEAR's network OR on-chain model inference while maintaining privacy.
+
+## Aptos
+![Aptos Logo](<logos/aptos_logo.jpg>)
+
+### Bounty 1: Best Project Built on Aptos
+[Details](<link_to_aptos_bounty1_details>)  
+**Theme:** Open-Ended (choose amongst hackathon themes)  
+**Objective:** Participants are tasked with developing projects on the Aptos network. We are open to see great ideas in DeFi, Gaming, Social, Infrastructure/tooling, and more.
