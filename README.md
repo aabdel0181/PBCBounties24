@@ -32,7 +32,7 @@
 **Objective:** Build something awesome using Chainlink! Anything that came from the Chainlink Documentation counts - using Price Feeds, Data Streams, PoR, VRF or Automation
 
 ## Range
-![Range Logo](<logos/range_logo.jpg>)
+![Range Logo](<logos/range_logo.png>)
 
 ### Bounty 1: Cross chain connected LPing Strategy using Axelar Intents
 [Details](<link_to_range_bounty1_details>)  
