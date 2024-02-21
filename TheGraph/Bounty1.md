@@ -1,19 +1,20 @@
-- **Best Use of Existing Subgraph(s):**
+# Best Use of New Subgraph(s)
 
 Total Amount Prize:
 $1,000
 
-- **Bounty Description** Build and deploy a custom GraphQL API that indexes data from a smart contract to query blockchain data to your dapp.
+# Bounty Description
+Build and deploy a custom GraphQL API that indexes data from a smart contract to query blockchain data to your dapp.
     
-    All Projects should provide: 
+All Projects should provide: 
     
-    1. Link to the deployed subgraph
-    2. Link to the subgraph source code
-    3. The project should be using data indexed and queried using the subgraph
+1. Link to the deployed subgraph
+2. Link to the subgraph source code
+3. The project should be using data indexed and queried using the subgraph
     
-    Get started [here](https://thegraph.com/docs/en/developing/creating-a-subgraph/)!
+Get started [here](https://thegraph.com/docs/en/developing/creating-a-subgraph/)!
     
-**What does success look like? What are possible features that you are looking for?**
+# What does success look like? What are possible features that you are looking for? 
 
 We are looking for projects that demonstrate innovative or effective use of The Graph Protocol. This could mean creating a unique subgraph, enabling advanced parameters, implementing advanced querying techniques, or integrating The Graph in a novel way within a decentralized application.
 

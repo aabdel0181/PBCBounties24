@@ -1,20 +1,21 @@
-- **Best Use of Existing Subgraph(s):**
+# Best Use of Existing Subgraph(s)
 
 Total Amount Prize:
 $1,000
 
 
-- **Bounty Description** Query an existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
+## Bounty Description
+Query an existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
     
-    All Projects should provide: 
+All Projects should provide: 
     
-    1. Link to the code that is consuming a subgraph
-    2. The project should be using data from an existing subgraph
+1. Link to the code that is consuming a subgraph
+2. The project should be using data from an existing subgraph
     
-    Get started [here](https://thegraph.com/docs/en/querying/querying-the-graph/)!
+Get started [here](https://thegraph.com/docs/en/querying/querying-the-graph/)!
     
 
-**What does success look like? What are possible features that you are looking for?**
+# What does success look like? What are possible features that you are looking for?
 
 We are looking for projects that demonstrate innovative or effective use of The Graph Protocol. This could mean creating a unique subgraph, enabling advanced parameters, implementing advanced querying techniques, or integrating The Graph in a novel way within a decentralized application.
 
