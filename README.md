@@ -50,7 +50,7 @@
 **Objective:** Participants are tasked to come up with innovative strategies on top of existing NFT marketplaces—focusing on liquidity vaults for ERC404s.
 
 ## The Graph
-![The Graph Logo](<logos/graph_logo.jpg>)
+![The Graph Logo](<logos/graph_logo.webp>)
 
 ### Bounty 1: Best New Subgraph
 [Details](<link_to_the_graph_bounty1_details>)  
@@ -63,7 +63,7 @@
 **Objective:** Query a new or existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
 
 ## NEAR Protocol
-![NEAR Protocol Logo](<logos/near_logo.jpg>)
+![NEAR Protocol Logo](<logos/near_logo.png>)
 
 ### Bounty 1: Cross-Chain Convergence and Interoperability
 [Details](<link_to_near_bounty1_details>)  
