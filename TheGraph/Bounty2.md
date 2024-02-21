@@ -22,3 +22,5 @@ We are looking for projects that demonstrate innovative or effective use of The 
 Ideally, the project should be feasible with a clear path to completion and scalability. This means the project can be expanded or adapted for broader or long-term use while also having a design and roadmap that demonstrates decentralization, open access to data, and community empowerment.
 
 The projects potential for future development, investment, and impact on the blockchain ecosystem can be a significant aspect of its success.
+
+Formal judging criteria and more recources can be found [here]()!
