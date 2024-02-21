@@ -14,7 +14,7 @@
 **Objective:** Participants are tasked with developing an innovative algorithm that can accurately assign a probability of a user being a bot within a social network, leveraging user interactions, post confidence scores, and the dynamic effects of upvotes and downvotes on user weight scores.
 
 ## Chainlink
-![Chainlink Logo](<logo>)
+![Chainlink Logo](<logos/chainlink_logo.svg>)
 
 ### Bounty 1: Best usage of Chainlink CCIP
 [Details](<link_to_chainlink_bounty1_details>)  
@@ -32,7 +32,7 @@
 **Objective:** Build something awesome using Chainlink! Anything that came from the Chainlink Documentation counts - using Price Feeds, Data Streams, PoR, VRF or Automation
 
 ## Range
-![Range Logo](<logo>)
+![Range Logo](<logos/range_logo.jpg>)
 
 ### Bounty 1: Cross chain connected LPing Strategy using Axelar Intents
 [Details](<link_to_range_bounty1_details>)  
@@ -50,7 +50,7 @@
 **Objective:** Participants are tasked to come up with innovative strategies on top of existing NFT marketplaces—focusing on liquidity vaults for ERC404s.
 
 ## The Graph
-![The Graph Logo](<logo>)
+![The Graph Logo](<logos/graph_logo.jpg>)
 
 ### Bounty 1: Best New Subgraph
 [Details](<link_to_the_graph_bounty1_details>)  
@@ -63,7 +63,7 @@
 **Objective:** Query a new or existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
 
 ## NEAR Protocol
-![NEAR Protocol Logo](<logo>)
+![NEAR Protocol Logo](<logos/near_logo.jpg>)
 
 ### Bounty 1: Cross-Chain Convergence and Interoperability
 [Details](<link_to_near_bounty1_details>)  
