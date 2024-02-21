@@ -1,8 +1,8 @@
-**What are the UI/UX Design Requirements**
+# What are the UI/UX Design Requirements
 
 The primary judging criteria will be on subgraph and substreams design, development and implementation, however a good UI and UX will provide additional success for the project, this is especially true for how the data from The Graph is rendered or presented to its users in the dapp. If you are focused on UI/UX then consider going for the “Best use of an existing subgraph” bounty.
 
-**How are you judging this bounty? What specific criteria do projects needs to be aware of?**
+# How are you judging this bounty? What specific criteria do projects needs to be aware of?
 
 Judges grade all projects on six main criteria described below. All criteria are listed in the order of most weightage to least:
 
@@ -13,7 +13,7 @@ Judges grade all projects on six main criteria described below. All criteria are
 5. **Project Sustainability:** The quality of the project's documentation, roadmap, and long-term viability will be analyzed. Judges will scrutinize the clarity and comprehensiveness of the project's documentation, ensuring that it facilitates seamless understanding and collaboration. A well-structured roadmap that outlines future development stages and potential challenges will further enhance a project's appeal.
 6. **Vision Alignment:** Holistic approach and vision alignment with the principles of decentralization. Judges will evaluate whether the project's objectives and approach resonate with the ethos of decentralization, blockchain technology, and fostering a more open and inclusive digital ecosystem.
 
-**What is the impact on your organization by a team working on this bounty?**
+# What is the impact on your organization by a team working on this bounty?
 
 Good use cases will strengthen the community and creating new interesting subgraphs provide composable data points for the future of web3.
 
