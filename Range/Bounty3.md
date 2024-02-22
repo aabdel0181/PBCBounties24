@@ -7,7 +7,7 @@ Participants are tasked to come up with innovative strategies on top of existing
 
 ### Material
 - [Range Protocol Blur Vault GitHub](https://github.com/Range-Protocol/blur-vault)
-- [Range Protocol NFT Article (Insert Link)](insert_link_here)
+- [Range Protocol NFT Article (Coming Soon)](insert_link_here)
 - [Blur](https://blur.io/)
 - [Pandora Labs Introduction](https://pandoralabs.mintlify.app/introduction)
 
