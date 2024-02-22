@@ -1,4 +1,4 @@
-# Bounty 3: Systematic NFT Strategies
+# Systematic NFT Strategies
 ### Theme: DeFi
 ### Prize: $1,000
 

@@ -1,4 +1,4 @@
-# Bounty 2: Fully Homomorphic Encryption
+# Fully Homomorphic Encryption
 ### Theme: Infrastructure / DeFi
 ### Prize: $1,000
 

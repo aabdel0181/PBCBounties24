@@ -1,4 +1,4 @@
-# Bounty 1: Cross-chain Connected LPing Strategy using Axelar Intents
+# Cross-chain Connected LPing Strategy using Axelar Intents
 ### Theme: Infrastructure / DeFi
 ### Prize: $1,000
 

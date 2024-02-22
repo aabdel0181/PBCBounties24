@@ -1,4 +1,4 @@
-# Bounty Title: Bot Detection Algorithm Challenge
+# Bot Detection Algorithm Challenge
 ### Theme: Social Network Analysis
 ### Prize: $1,000
 
