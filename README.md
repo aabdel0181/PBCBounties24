@@ -1,7 +1,9 @@
 # Bounties For PBC '24 Hackathon!
 
 ## Synoptic
-![Synoptic Logo](<logo>)
+<div style="background-color: white;">
+    ![Synoptic](logos/synoptic_logo.png)
+</div>
 
 ### Bounty 1: Speed Optimization Challenge for Message-Distribution Systems
 [Details](Synoptic/Bounty1.md)  
