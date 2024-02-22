@@ -68,17 +68,17 @@
 ### Bounty 1: Cross-Chain Convergence and Interoperability
 [Details](NEAR/Bounty1.md)  
 **Theme:** Infrastructure  
-**Objective:** Design a proof-of-concept demonstrating the core mechanisms for __initiating a stablecoin swap__ (e.g., USDC) between the NEAR and Ethereum blockchains.
+**Objective:** Design a proof-of-concept demonstrating the core mechanisms for _initiating a stablecoin swap_ (e.g., USDC) between the NEAR and Ethereum blockchains.
 
 ### Bounty 2: Account Aggregation for Enhanced User Experience
 [Details](NEAR/Bounty2.md)  
 **Theme:** Open-Ended (choose amongst hackathon themes)  
-**Objective:** Leverage NEAR's flexible account structures to design and prototype a compelling application that streamlines the user experience through __account aggregation.__
+**Objective:** Leverage NEAR's flexible account structures to design and prototype a compelling application that streamlines the user experience through _account aggregation._
 
 ### Bounty 3: Decentralized AI on NEAR
 [Details](NEAR/Bounty3.md)  
 **Theme:** AI / ML  
-**Objective:** Develop a protocol or framework facilitating either decentralized AI __model training__ across NEAR's network OR on-chain __model inference__ while __maintaining privacy__.
+**Objective:** Develop a protocol or framework facilitating either decentralized AI _model training_ across NEAR's network OR on-chain _model inference_ while _maintaining privacy_.
 
 ## Aptos
 ![Aptos Logo](<logos/aptos_logo.png>)
