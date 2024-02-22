@@ -1,12 +1,9 @@
-# TRACK 3: Decentralized AI on NEAR
+# Decentralized AI Training and Inference on NEAR
+### Theme: AI/ML
+### Prize: 
 
-## Bounty Title: Decentralized AI Training and Inference on NEAR
-
-**Objective:**  
-Develop a protocol or framework facilitating either decentralized AI model training across NEAR's network OR on-chain model inference while maintaining privacy.
-
-**Hackathon Challenge:**  
-Prioritize protocol design, proof-of-concept data flows, and addressing the unique challenges of AI workloads on blockchains.
+## Objective 
+Develop a protocol or framework facilitating either decentralized AI model training across NEAR's network OR on-chain model inference while maintaining privacy. In particular, prioritize protocol design, proof-of-concept data flows, and addressing the unique challenges of AI workloads on blockchains.
 
 ### Example Use Cases:
 - **Price Prediction with DEX Data:**  

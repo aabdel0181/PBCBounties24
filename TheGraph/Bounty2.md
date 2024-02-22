@@ -1,10 +1,9 @@
 # Best Use of Existing Subgraph(s)
+### Theme: Open-Ended
+### Prize: $1,000
 
-Total Amount Prize:
-$1,000
 
-
-## Bounty Description
+## Objective
 Query an existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
     
 All Projects should provide: 

@@ -1,6 +1,6 @@
-# TRACK 2: Account Aggregation for Enhanced User Experience
-
-## Bounty Title: Innovative Use Cases for Account Aggregation on NEAR
+# Innovative Use Cases for Account Aggregation on NEAR
+### Theme: Open-Ended
+### Prize: 
 
 **Objective:**  
 Leverage NEAR's flexible account structures to design and prototype a compelling application that streamlines the user experience through [account aggregation](https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/).  

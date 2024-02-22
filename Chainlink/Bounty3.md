@@ -1,11 +1,8 @@
 # Other Chainlink Services Track
+### Theme: Infrastructure / AI
+### Prize: $1,000
 
-**Total Amount Prize:**  
-$1,000
-
-**Best Project using Chainlink VRF, Automation, Data Streams, Data Feeds, or PoR:**  
-
-## Bounty Description
+## Objective
 Build something awesome using Chainlink! Anything that came from the Chainlink Documentation counts - using Price Feeds, Data Streams, PoR, VRF, or Automation.
 
 You can see examples of successful implementations of Chainlink services [here](https://blog.chain.link/smart-contract-use-cases/).

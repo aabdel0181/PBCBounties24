@@ -1,6 +1,6 @@
-### **Theme:** Infrastructure
-
-### **Bounty Title:** Speed Optimization Challenge for Message-Distribution Systems
+# Speed Optimization Challenge for Message-Distribution Systems
+### Theme: Infrastructure
+### Prize: 
 
 **Objective:**  
 To develop the most efficient message-distribution implementation that ensures minimal latency and variance in message delivery across different scenarios, involving both one-to-many and many-to-many publisher and subscriber connections.

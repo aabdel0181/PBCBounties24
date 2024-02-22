@@ -1,9 +1,8 @@
 # Best Use of New Subgraph(s)
+### Theme: Open-Ended
+### Prize: $1,000
 
-Total Amount Prize:
-$1,000
-
-# Bounty Description
+# Objective
 Build and deploy a custom GraphQL API that indexes data from a smart contract to query blockchain data to your dapp.
     
 All Projects should provide: 

@@ -1,12 +1,9 @@
-# TRACK 1: Cross-Chain Convergence and Interoperability
+# NEAR-Ethereum Stablecoin Swap Proof-of-Concept
+### Theme: Infrastructure
+### Prize: 
 
-## Bounty Title: NEAR-Ethereum Stablecoin Swap Proof-of-Concept
-
-**Objective:**  
-Design a proof-of-concept demonstrating the core mechanisms for initiating a stablecoin swap (e.g., USDC) between the NEAR and Ethereum blockchains.
-
-**Hackathon Challenge:**  
-Focus on the communication layer and a frontend interface for initiating a swap request.
+## Objective 
+Design a proof-of-concept demonstrating the core mechanisms for initiating a stablecoin swap (e.g., USDC) between the NEAR and Ethereum blockchains. In particular, focus on the communication layer and a frontend interface for initiating a swap request.
 
 ### Key Targets for the Hackathon
 1. **Communication Protocol Sketch:**  

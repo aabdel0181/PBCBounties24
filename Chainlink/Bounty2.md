@@ -1,11 +1,8 @@
 # Chainlink Functions Track
+### Theme: Infrastructure / AI
+### Prize: $1,000
 
-**Total Amount Prize:**  
-$1,000
-
-**Best Project using Chainlink Functions:**  
-
-## Bounty Description
+## Objective
 Chainlink Functions can help you to build a dApp that pulls (or pushes) data connecting to an external API, this could be a public or private API, a SaaS app, any IoT device, or an enterprise system. In addition to off-chain data, it could utilize off-chain computations on the data as well (for example, aggregate data and put on-chain or connect to decentralized storage systems such as IPFS).
 
 ### Possible Use Cases

@@ -1,11 +1,8 @@
 # Chainlink CCIP Track
+### Theme: Open-Ended
+### Prize: $1,000
 
-**Total Amount Prize:**  
-$1,000
-
-**Best Project using Chainlink CCIP:**  
-
-## Bounty Description
+## Objective
 Build something awesome using Chainlink CCIP! The Chainlink Cross-Chain Interoperability Protocol (CCIP) provides a single simple interface through which dApps and web3 entrepreneurs can securely meet all their cross-chain needs, including token transfers and arbitrary messaging.
 
 ### Possible Use Cases
