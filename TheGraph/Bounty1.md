@@ -2,7 +2,7 @@
 ### Theme: Open-Ended
 ### Prize: $1,000
 
-# Objective
+## Objective
 Build and deploy a custom GraphQL API that indexes data from a smart contract to query blockchain data to your dapp.
     
 All Projects should provide: 
@@ -13,7 +13,7 @@ All Projects should provide:
     
 Get started [here](https://thegraph.com/docs/en/developing/creating-a-subgraph/)!
     
-# What does success look like? What are possible features that you are looking for? 
+### What does success look like? What are possible features that you are looking for? 
 
 We are looking for projects that demonstrate innovative or effective use of The Graph Protocol. This could mean creating a unique subgraph, enabling advanced parameters, implementing advanced querying techniques, or integrating The Graph in a novel way within a decentralized application.
 

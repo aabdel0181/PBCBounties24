@@ -2,7 +2,7 @@
 ### Theme: Social Network Analysis
 ### Prize: 
 
-**Objective:**  
+## Objective 
 Participants are tasked with developing an innovative algorithm that can accurately assign a probability of a user being a bot within a social network, leveraging user interactions, post confidence scores, and the dynamic effects of upvotes and downvotes on user weight scores.
 
 ### Guidelines and Assumptions:

@@ -1,4 +1,4 @@
-### Judging Criteria for All Tracks:
+# Judging Criteria for All Tracks:
 
 1. **UI/UX/DX:**  
    - How useful is your application?

@@ -2,12 +2,11 @@
 ### Theme: Open-Ended
 ### Prize: 
 
-**Objective:**  
+## Objective 
 Leverage NEAR's flexible account structures to design and prototype a compelling application that streamlines the user experience through [account aggregation](https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/).  
 (NEAR's human-readable accounts and flexible key management permissions create a natural foundation for aggregating multiple assets and streamlining interactions across various dApps.)
 
-**Hackathon Challenge:**  
-Emphasize new and innovative ways account aggregation could simplify onboarding, asset management, or interaction with dApps.
+In particular, emphasize new and innovative ways account aggregation could simplify onboarding, asset management, or interaction with dApps.
 
 ### Key Targets for the Hackathon:
 1. **Use Case Proposal:**  

@@ -14,7 +14,7 @@ All Projects should provide:
 Get started [here](https://thegraph.com/docs/en/querying/querying-the-graph/)!
     
 
-# What does success look like? What are possible features that you are looking for?
+### What does success look like? What are possible features that you are looking for?
 
 We are looking for projects that demonstrate innovative or effective use of The Graph Protocol. This could mean creating a unique subgraph, enabling advanced parameters, implementing advanced querying techniques, or integrating The Graph in a novel way within a decentralized application.
 

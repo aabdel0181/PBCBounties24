@@ -2,7 +2,7 @@
 ### Theme: Infrastructure
 ### Prize: 
 
-**Objective:**  
+## Objective   
 To develop the most efficient message-distribution implementation that ensures minimal latency and variance in message delivery across different scenarios, involving both one-to-many and many-to-many publisher and subscriber connections.
 
 ### Product Milestones:
