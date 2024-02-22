@@ -1,49 +1,81 @@
-# Theme: Social Network Analysis
+### **Theme:** Infrastructure
 
-**Bounty Title:** Bot Detection Algorithm Challenge
+### **Bounty Title:** Speed Optimization Challenge for Message-Distribution Systems
 
 **Objective:**  
-Participants are tasked with developing an innovative algorithm that can accurately assign a probability of a user being a bot within a social network, leveraging user interactions, post confidence scores, and the dynamic effects of upvotes and downvotes on user weight scores.
+To develop the most efficient message-distribution implementation that ensures minimal latency and variance in message delivery across different scenarios, involving both one-to-many and many-to-many publisher and subscriber connections.
 
-### Guidelines and Assumptions:
+### Product Milestones:
 
-- **User Weight Score:** Each user is assigned a weight score that starts at a minimum of 1 and has no upper limit. This score represents the user's reputation within the network.
-- **Post Confidence Score:** Users specify a confidence score ranging from 50% to 100% for each post, reflecting the author's certainty in the post's content.
-- **Voting Impact:** Upvotes and downvotes affect the author's weight score. The impact is calculated as `post_confidence * voter_weight_score * (up ? 1 : -1)`.
-- **User Base:** The social network has a substantial user base of at least 100,000, including both genuine and bot accounts, with reputable accounts having higher weight scores.
+- **Implementation Design:**  
+  Create a scalable and efficient architecture capable of handling one-to-many and many-to-many connections with the least possible latency.
+- **Technology Selection:**  
+  Choose between gRPC or web sockets for message distribution, considering the trade-offs in terms of speed, reliability, and ease of implementation.
+- **Optimization:**  
+  Apply advanced programming techniques and algorithms to reduce both total latency and latency variance in message distribution.
+- **Benchmarking:**  
+  Conduct thorough testing against the specified benchmarks to measure and refine the system's performance.
+- **Documentation:**  
+  Prepare comprehensive documentation detailing the architecture, choice of technology, and optimization strategies employed.
 
-### Deliverables:
+### Key Milestones for Hackathon (MVP Expectations):
 
-1. **Algorithm Design:**  
-   A detailed write-up of the proposed solution, outlining the approach to determining the likelihood of a user being a bot based on the provided metrics and any additional parameters deemed relevant.
-2. **Code Implementation:**  
-   Working code that demonstrates the algorithm's functionality. The code should be able to process input data reflecting user attributes, post contents, confidence scores, and voting actions to calculate bot probabilities.
-3. **Benchmark Development:**  
-   Participants must develop a benchmark that simulates real-world social network interactions to test the effectiveness and accuracy of their algorithm.
+- **Prototype Development:**  
+  Develop a functional prototype capable of efficiently managing one-to-many and many-to-many message distribution with an emphasis on low latency.
+- **Performance Optimization:**  
+  Fine-tune the prototype to optimize for both total latency and latency variance across all benchmark tests.
+- **Benchmark Testing:**  
+  Execute the benchmark tests to gather performance data, identifying areas for improvement.
+- **Presentation and Documentation:**  
+  Present the prototype, including a demonstration of benchmark tests, architectural choices, and future scalability plans.
 
-### Judgment Criteria:
+### Benchmarks for Evaluation:
 
-1. **Presentation:**  
-    - **Comprehensiveness:** The extent to which the solution addresses potential edge cases and the clarity in explaining the proposed algorithm.
-2. **Algorithm Implementation:**  
-    - **Accuracy:** The effectiveness of the algorithm in distinguishing between bot and genuine user behavior.
-    - **Innovation:** The creativity and uniqueness of the approach in leveraging available data.
-3. **Benchmark Implementation:**  
-    - **Realism:** The degree to which the benchmark reflects genuine social network dynamics and user interactions.
-    - **Effectiveness:** How well the benchmark challenges and evaluates the algorithm's capabilities.
-4. **Feasibility:**  
-    - **Practicality:** The potential for integrating the algorithm into a live social network as a feature.
-    - **Cost Efficiency:** Consideration of the computational resources required and the associated costs.
-    - **Data Availability:** The accessibility of necessary inputs for the algorithm to function in a real-world setting.
-    - **Licensing:** If external tools or libraries are used, they must be licensed for commercial use.
+1. **One-to-Many, Total Latency:**  
+   Test the system with one publisher and 1000 subscribers, measuring the total latency to distribute a message.
+2. **One-to-Many, Latency Variance:**  
+   Measure the latency difference between the first and last receiver in a one-to-many distribution scenario.
 
-### Encouraged Strategies:
+### Benchmarks for Evaluation (Bonus):
 
-- Participants are encouraged to explore a wide range of data points, including but not limited to, user engagement patterns, frequency of posts, timing of votes, and the network of interactions between users, to identify bot-like behavior.
-- Employing machine learning techniques, network analysis methods, or statistical models to analyze user behavior and voting patterns could provide deeper insights into bot detection.
-- Considering the scalability of the solution to handle large volumes of users and posts without compromising on performance or accuracy.
+1. **Many-to-Many, Total Latency:**  
+   In a scenario with 1000 publishers and 1000 subscribers messaging simultaneously, measure the average total latency.
+2. **Many-to-Many, Latency Variance:**  
+   Assess the average latency difference among all publishers in a many-to-many context.
 
+### Scoring System:
 
-### Conclusion:
+- For each benchmark, the position of the team's implementation in terms of latency (POS) will determine their score, awarded as (5 - POS) points.
+- The team with the highest total points across all benchmarks will be declared the winner.
 
-This bounty offers a unique challenge to creatively apply data analysis, machine learning, and statistical modeling techniques to tackle the issue of bot detection in social networks. The goal is to develop a robust, efficient, and scalable algorithm that can enhance the integrity of social media platforms by accurately identifying and flagging bot accounts, contributing to a more authentic and trustworthy digital environment.
+### Starter Code: 
+- See [sockets sample](https://github.com/synoptic-com/bounty-infra/tree/main/sockets)
+- See [grpc sample](https://github.com/synoptic-com/bounty-infra/tree/main/grpc)
+
+### **Infrastructure and Technical Specifications:**
+
+- **Protocol:**  
+  Teams can choose between gRPC and web sockets for their implementations.
+    - For sockets, the message format should be
+    
+    ```jsx
+    {
+    	author: int // author id
+    	data: str // 1 kB of data
+    }
+    ```
+    
+    - If you choose gRPC, use the following proto definition.
+    
+    ```jsx
+    syntax = "proto3";
+    
+    message Message {
+      int32 author = 1;
+      string data = 2;
+    }
+    ```
+    
+- **Cloud Instance Specification:**  
+  All benchmarks will be performed on an AWS t3.2xlarge instance, equipped with 8 CPUs and 32 GB RAM, running Ubuntu 22.04 LTS. This standardized environment ensures a fair comparison of the performance across all participating teams.
+- Sample implementations with GO + gRPC and Bun.js + sockets can be found in our GitHub repository [here](https://github.com/synoptic-com/bounty-infra). Please read the README files for implementation details.
