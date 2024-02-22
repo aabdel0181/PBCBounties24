@@ -15,3 +15,5 @@ You can see examples of successful implementations of Chainlink services [here](
 - While all project submissions are evaluated holistically, there will be bonus points given to projects that use Chainlink services together in a meaningful way.
 - Please let us know how you use Chainlink in the project description.
 - It must be possible for the judges to find the Chainlink use in your code. Only the intention to use is not valid.
+
+Additional judging criteria and more resources can be found [here](Judging&Resources.md)!

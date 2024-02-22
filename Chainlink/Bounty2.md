@@ -20,3 +20,5 @@ Chainlink Functions can help you to build a dApp that pulls (or pushes) data con
 - While all project submissions are evaluated holistically, there will be bonus points given to projects that use Chainlink Functions together with other Chainlink services in a meaningful way.
 - Please let us know how you use Chainlink in the project description.
 - It must be possible for the judges to find the Chainlink use in your code. Only the intention to use is not valid.
+
+Additional judging criteria and more resources can be found [here](Judging&Resources.md)!
