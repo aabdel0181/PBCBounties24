@@ -1,4 +1,6 @@
 # Bounty 3: Systematic NFT Strategies
+### Theme: DeFi
+### Prize: $1,000
 
 ## Objective  
 Participants are tasked to come up with innovative strategies on top of existing NFT marketplaces. Additionally, participants can also explore strategies involving BRC20 or ERC404.

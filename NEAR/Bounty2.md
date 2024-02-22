@@ -1,6 +1,6 @@
 # Innovative Use Cases for Account Aggregation on NEAR
 ### Theme: Open-Ended
-### Prize: 
+### Prize: $1,000
 
 ## Objective 
 Leverage NEAR's flexible account structures to design and prototype a compelling application that streamlines the user experience through [account aggregation](https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/).  

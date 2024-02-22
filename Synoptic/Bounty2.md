@@ -1,6 +1,6 @@
 # Bounty Title: Bot Detection Algorithm Challenge
 ### Theme: Social Network Analysis
-### Prize: 
+### Prize: $1,000
 
 ## Objective 
 Participants are tasked with developing an innovative algorithm that can accurately assign a probability of a user being a bot within a social network, leveraging user interactions, post confidence scores, and the dynamic effects of upvotes and downvotes on user weight scores.

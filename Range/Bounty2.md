@@ -1,4 +1,6 @@
 # Bounty 2: Fully Homomorphic Encryption
+### Theme: Infrastructure / DeFi
+### Prize: $1,000
 
 ## Objective  
 Participants are tasked with tapping into the potential of fully homomorphic encryption (FHE) by incorporating it into DeFi. FHE opens up the possibility for end-to-end encryption and essentially allows for "confidential and private smart contracts".

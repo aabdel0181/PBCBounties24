@@ -1,6 +1,6 @@
 # Best Project Built on Aptos
 ### Theme: Open Ended
-### Prize: 
+### Prize: $1,000
 
 ## Objective
 Participants are tasked with developing projects on the Aptos network. We are open to seeing great ideas in DeFi, Gaming, Social, Infrastructure/tooling, and more.

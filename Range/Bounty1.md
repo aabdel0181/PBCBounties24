@@ -1,4 +1,7 @@
 # Bounty 1: Cross-chain Connected LPing Strategy using Axelar Intents
+### Theme: Infrastructure / DeFi
+### Prize: $1,000
+
 
 ## Objective
 Participants are tasked with developing a connected LPing strategy for the ETH-USDC pair across multiple chains:

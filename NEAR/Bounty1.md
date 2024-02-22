@@ -1,6 +1,6 @@
 # NEAR-Ethereum Stablecoin Swap Proof-of-Concept
 ### Theme: Infrastructure
-### Prize: 
+### Prize: $1,000
 
 ## Objective 
 Design a proof-of-concept demonstrating the core mechanisms for initiating a stablecoin swap (e.g., USDC) between the NEAR and Ethereum blockchains. In particular, focus on the communication layer and a frontend interface for initiating a swap request.
