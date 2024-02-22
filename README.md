@@ -2,7 +2,7 @@
 
 ## Synoptic
 <div style="background-color: white;">
-    ![Synoptic](logos/synoptic_logo.png)
+    <img src="logos/synoptic_logo.png" alt="Synoptic">
 </div>
 
 ### Bounty 1: Speed Optimization Challenge for Message-Distribution Systems
